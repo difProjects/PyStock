@@ -4,8 +4,8 @@ PyStock to gra-bot, która pozwoli ci na spróbowanie swoich sił podczas inwest
 
 # Commands
 
-$stock - Prints out companies stocks
-$microsoft - Prints out data about Microsoft
-$heinz - Prints out data about Kraft Heinz
-$pepsi - Prints out data about Pepsi
+$stock - Prints out companies stocks<br/>
+$microsoft - Prints out data about Microsoft<br/>
+$heinz - Prints out data about Kraft Heinz<br/>
+$pepsi - Prints out data about Pepsi<br/>
 $gmc - Prints out data about Gener Motors Company
